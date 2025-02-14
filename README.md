@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Ravishka! 👋
 
-<!--
-**ravishka1999/ravishka1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer passionate about building scalable and innovative solutions. Here's a little about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Project Name](link)
+- 🌱 I’m learning [Technology/Skill]
+- 👯 I’m looking to collaborate on [Type of Projects]
+- 💬 Ask me about [Your Expertise]
+- 📫 How to reach me: [Your Email or Social Media]
+- 😄 Pronouns: [Your Pronouns]
+- ⚡ Fun fact: [Something Fun]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravishka1999&show_icons=true&theme=radical)
+
+## � Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravishka1999&layout=compact&theme=radical)
